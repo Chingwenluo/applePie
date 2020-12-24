@@ -28,7 +28,7 @@ struct Game {
             else {
                 guessedWord += "_"
             }
-        }
+         }
         return guessedWord
     }
     

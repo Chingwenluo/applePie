@@ -37,7 +37,6 @@ class ViewController: UIViewController {
     let incorrectMovesAllowed = 7
     
     var currentGame: Game!
-
     //
     func newRound() {
 
