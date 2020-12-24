@@ -32,7 +32,6 @@ struct Game {
         return guessedWord
     }
     
-    
 }
 
 
